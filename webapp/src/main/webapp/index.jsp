@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently no offers... </h1>   
+         <h1> ALLU ARJUN Army ... </h1>   
 	 
 
     </section>    
