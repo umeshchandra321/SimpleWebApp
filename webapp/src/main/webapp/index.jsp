@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ALL TYPES OF PRODUCTS ARE AVILABLE IN THIS WEBSITE  ... </h1>   
+         <h1> UMESH CHANDRA  ... </h1>   
 	 
 
     </section>    
